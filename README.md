@@ -54,6 +54,39 @@ This section ranks quarterbacks using a tier list based on a combination of effi
 (0.06 × rushing_yards_per_run) - (0.23 × turnovers_per_game) + (0.40 × td:turnover) +
 (0.35 × completion_pct) + (0.42 × passing_epa_per_game) + (0.10 × rushing_epa_per_game)
 
+## Top 10 QB Seasons of All Time
+
+| Name & Year          | Score    |
+|----------------------|----------|
+| Aaron Rodgers 2020   | 6.966    |
+| Aaron Rodgers 2011   | 6.872    |
+| Drew Brees 2011      | 6.168    |
+| Matt Ryan 2016       | 5.967    |
+| Peyton Manning 2004  | 5.571    |
+| Tom Brady 2007       | 5.512    |
+| Patrick Mahomes 2018 | 5.282    |
+| Drew Brees 2019      | 5.215    |
+| Lamar Jackson 2024   | 5.187    |
+| Aaron Rodgers 2021   | 5.137    |
+
+---
+
+## Worst 10 QB Seasons of All Time (AR)
+
+| Name & Year          | Score     |
+|----------------------|-----------|
+| Akili Smith 2000     | -5.930    |
+| JaMarcus Russell 2009| -5.724    |
+| Jimmy Clausen 2010   | -5.555    |
+| Andrew Walter 2006   | -5.327    |
+| Donovan McNabb 1999  | -5.180    |
+| Kyle Orton 2005      | -5.053    |
+| Mark Brunell 2004    | -4.964    |
+| Ryan Leaf 2000       | -4.719    |
+| David Carr 2002      | -4.542    |
+| Doug Pederson 1999   | -4.537    |
+
+
 
 - **Output:**  
 - Static image:  
