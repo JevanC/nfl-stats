@@ -18,7 +18,7 @@ This analysis explores quarterback playstyles using merged weekly passing and ru
 
 - **Output:**  
   - Static image:  
-    `images/qb_play_style.png`
+    (![Quarterback Play Style](images/qb_play_style.png))
     
   - Interactive scatter plot:  
     [QB Playstyle Interactive Chart](https://jevanc.github.io/nfl-stats/qb_play_style.html)  
@@ -57,7 +57,7 @@ This section ranks quarterbacks using a tier list based on a combination of effi
 
 - **Output:**  
 - Static image:  
-  `images/tier_list.png`
+  ![Tier List](images/tier_list.png)
 
 - Interactive tier list chart:  
   [QB Tier List Interactive Chart](https://jevanc.github.io/nfl-stats/tier_list.html)  
