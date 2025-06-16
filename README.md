@@ -17,10 +17,12 @@ This analysis explores quarterback playstyles using merged weekly passing and ru
   Using the elbow method, **5 clusters** were selected to group quarterbacks by playstyle similarity.
 
 - **Output:**  
-  - Interactive scatter plot:  
-    [QB Playstyle Interactive Chart](https://jevanc.github.io/nfl-stats/qb_play_style.html)  
   - Static image:  
     `images/qb_play_style.png`
+    
+  - Interactive scatter plot:  
+    [QB Playstyle Interactive Chart](https://jevanc.github.io/nfl-stats/qb_play_style.html)  
+
 
 ---
 
@@ -54,10 +56,11 @@ This section ranks quarterbacks using a tier list based on a combination of effi
 
 
 - **Output:**  
-- Interactive tier list chart:  
-  [QB Tier List Interactive Chart](https://jevanc.github.io/nfl-stats/tier_list.html)  
 - Static image:  
   `images/tier_list.png`
+
+- Interactive tier list chart:  
+  [QB Tier List Interactive Chart](https://jevanc.github.io/nfl-stats/tier_list.html)  
 
 ---
 
